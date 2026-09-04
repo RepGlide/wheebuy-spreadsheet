@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://repglide.github.io/wheebuy-spreadsheet/sitemap.xml
